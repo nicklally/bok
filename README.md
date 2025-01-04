@@ -4,12 +4,12 @@
      * [[AM-01-020] Geospatial Analysis and Model Building](https://gistbok-topics.ucgis.org/AM-01-020)
      * [[AM-01-021] The Evolution of Geospatial Reasoning, Analytics, and Modeling](https://gistbok-topics.ucgis.org/AM-01-021)   
   * [[AM-02] Building Blocks](https://gistbok-topics.ucgis.org/AM-02)
-     * [AM-02-003] Buffers
-     * [AM-02-004] Overlay
-[AM-02-006] Grid Operations and Map Algebra
-[AM-02-009] Classification and Clustering
-[AM-02-040] Areal Interpolation
-[AM-02-098] Boundaries and Zone Membership 
+    * [[AM-02-003] Buffers](https://gistbok-topics.ucgis.org/AM-02-003)
+    * [[AM-02-004] Overlay](https://gistbok-topics.ucgis.org/AM-02-004)
+    *  [[AM-02-006] Grid Operations and Map Algebra](https://gistbok-topics.ucgis.org/AM-02-006)
+    *   [[AM-02-009] Classification and Clustering](https://gistbok-topics.ucgis.org/AM-02-009)
+    *  [[AM-02-040] Areal Interpolation](https://gistbok-topics.ucgis.org/AM-02-040)
+    *  [[AM-02-098] Boundaries and Zone Membership](https://gistbok-topics.ucgis.org/AM-02-090)
   * [[AM-03] Data Exploration & Spatial Statistics](https://gistbok-topics.ucgis.org/AM-03)
   * [[AM-04] Surface and Field Analysis](https://gistbok-topics.ucgis.org/AM-04)
   * [[AM-05] Network and Location Analysis](https://gistbok-topics.ucgis.org/AM-05)
