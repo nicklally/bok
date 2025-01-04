@@ -1,5 +1,18 @@
+- [Geographic Information Science \& Technology Body of Knowledge link directory](#geographic-information-science--technology-body-of-knowledge-link-directory)
+  - [\[AM\] Analytics and Modeling](#am-analytics-and-modeling)
+  - [\[CP\] Computing Platforms](#cp-computing-platforms)
+  - [\[CV\] Cartography and Visualization](#cv-cartography-and-visualization)
+  - [\[DA\] Domain Applications](#da-domain-applications)
+  - [\[DC\] Data Capture](#dc-data-capture)
+  - [\[DM\] Data Management](#dm-data-management)
+  - [\[FC\] Foundational Concepts](#fc-foundational-concepts)
+  - [\[GS\] GIS\&T and Society](#gs-gist-and-society)
+  - [\[KE\] Knowledge Economy](#ke-knowledge-economy)
+  - [\[PD\] Programming and Development](#pd-programming-and-development)
+
+
 # Geographic Information Science &amp; Technology Body of Knowledge link directory
-* ## [[AM] Analytics and Modeling](https://gistbok-topics.ucgis.org/AM)
+## [[AM] Analytics and Modeling](https://gistbok-topics.ucgis.org/AM)
   * [[AM-01] Methodological Context](https://gistbok-topics.ucgis.org/AM-01)
      * [[AM-01-020] Geospatial Analysis and Model Building](https://gistbok-topics.ucgis.org/AM-01-020)
      * [[AM-01-021] The Evolution of Geospatial Reasoning, Analytics, and Modeling](https://gistbok-topics.ucgis.org/AM-01-021)   
@@ -34,12 +47,12 @@
   * [[AM-07] Geocomputation Methods and Models](https://gistbok-topics.ucgis.org/AM-07)
   * [[AM-08] Big Data & Geospatial Analytics](https://gistbok-topics.ucgis.org/AM-08)
   * [[AM-09] Analysis of Errors and Uncertainty](https://gistbok-topics.ucgis.org/AM-09)
-* ## [CP] Computing Platforms
-* ## [CV] Cartography and Visualization
-* ## [DA] Domain Applications
-* ## [DC] Data Capture
-* ## [DM] Data Management
-* ## [FC] Foundational Concepts
-* ## [GS] GIS&T and Society
-* ## [KE] Knowledge Economy
-* ## [PD] Programming and Development
+## [[CP] Computing Platforms](https://gistbok-topics.ucgis.org/CP)
+## [[CV] Cartography and Visualization](https://gistbok-topics.ucgis.org/CV)
+## [[DA] Domain Applications](https://gistbok-topics.ucgis.org/DA)
+## [[DC] Data Capture](https://gistbok-topics.ucgis.org/DC)
+## [[DM] Data Management](https://gistbok-topics.ucgis.org/DM)
+## [[FC] Foundational Concepts](https://gistbok-topics.ucgis.org/FC)
+## [[GS] GIS&T and Society](https://gistbok-topics.ucgis.org/GS)
+## [[KE] Knowledge Economy](https://gistbok-topics.ucgis.org/KE)
+## [[PD] Programming and Development](https://gistbok-topics.ucgis.org/PD)
