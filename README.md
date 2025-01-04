@@ -1,6 +1,8 @@
 # Geographic Information Science &amp; Technology Body of Knowledge link directory
 * [[AM] Analytics and Modeling](https://gistbok-topics.ucgis.org/AM)
   * [[AM-01] Methodological Context](https://gistbok-topics.ucgis.org/AM-01)
+     * [[AM-01-020] Geospatial Analysis and Model Building](https://gistbok-topics.ucgis.org/AM-01-020)
+     * [[AM-01-021] The Evolution of Geospatial Reasoning, Analytics, and Modeling](https://gistbok-topics.ucgis.org/AM-01-021)   
   * [[AM-02] Building Blocks](https://gistbok-topics.ucgis.org/AM-02)
   * [[AM-03] Data Exploration & Spatial Statistics](https://gistbok-topics.ucgis.org/AM-03)
   * [[AM-04] Surface and Field Analysis](https://gistbok-topics.ucgis.org/AM-04)
