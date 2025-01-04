@@ -55,20 +55,36 @@
       * [[AM-04-099] LidAR Point Cloud Analysis](https://gistbok-topics.ucgis.org/AM-04-099)
       * [[AM-04-101] 3D Parametric Surfaces](https://gistbok-topics.ucgis.org/AM-04-101)
   * [[AM-05] Network and Location Analysis](https://gistbok-topics.ucgis.org/AM-05)
-        * [AM-05-042] The Classic Transportation Problem
-        * [AM-05-043] Location and Service Area Problems
-        * [AM-05-044] Modelling Accessibility
-        * [AM-05-046] Location-allocation modeling
-        * [AM-05-075] Intro to Network & Location Analyses
-        * [AM-05-076] Network Route & Tour Problems
+        * [[AM-05-042] The Classic Transportation Problem](https://gistbok-topics.ucgis.org/AM-05-042)
+        * [[AM-05-043] Location and Service Area Problems](https://gistbok-topics.ucgis.org/AM-05-043)
+        * [[AM-05-044] Modelling Accessibility](https://gistbok-topics.ucgis.org/AM-05-044)
+        * [[AM-05-046] Location-allocation modeling](https://gistbok-topics.ucgis.org/AM-05-046)
+        * [[AM-05-075] Intro to Network & Location Analyses](https://gistbok-topics.ucgis.org/AM-05-075)
+        * [[AM-05-076] Network Route & Tour Problems](https://gistbok-topics.ucgis.org/AM-05-076)
   * [[AM-06] Space-Time Analysis & Modeling](https://gistbok-topics.ucgis.org/AM-06)
-         *  [AM-06-080] Capturing Spatiotemporal Dynamics in Computational Modeling
-         * [AM-06-081] GIS-Based Computational Modeling
-         * [AM-06-090] Computational Movement Analysis
-         * [AM-06-102] Volumes and Space-Time Volumes
+         * [[AM-06-080] Capturing Spatiotemporal Dynamics in Computational Modeling](https://gistbok-topics.ucgis.org/AM-06-080)
+         * [[AM-06-081] GIS-Based Computational Modeling](https://gistbok-topics.ucgis.org/AM-06-081)
+         * [[AM-06-090] Computational Movement Analysis](https://gistbok-topics.ucgis.org/AM-06-090)
+         * [[AM-06-102] Volumes and Space-Time Volumes](https://gistbok-topics.ucgis.org/AM-06-102)
   * [[AM-07] Geocomputation Methods and Models](https://gistbok-topics.ucgis.org/AM-07)
+           * [[AM-07-069] Cellular Automata](https://gistbok-topics.ucgis.org/AM-07-069)
+           * [[AM-07-078] Genetic Algorithms and Evolutionary Computing](https://gistbok-topics.ucgis.org/AM-07-078)
+           * [[AM-07-079] Agent-based Modeling](https://gistbok-topics.ucgis.org/AM-07-079)
+           * [[AM-07-084] Simulation Modeling](https://gistbok-topics.ucgis.org/AM-07-084)
+           * [[AM-07-089] Artificial Neural Networks](https://gistbok-topics.ucgis.org/AM-07-089)
   * [[AM-08] Big Data & Geospatial Analytics](https://gistbok-topics.ucgis.org/AM-08)
+             * [[AM-08-038] Pattern Recognition and Matching](https://gistbok-topics.ucgis.org/AM-08-038)
+             * [[AM-08-068] Rule Learning for Spatial Data Mining](https://gistbok-topics.ucgis.org/AM-08-086)
+             * [[AM-08-093] Artificial Intelligence Approaches](https://gistbok-topics.ucgis.org/AM-08-093)
+             * [[AM-08-094] Machine Learning Approaches](https://gistbok-topics.ucgis.org/AM-09-094)
+             * [[AM-08-097] An Introduction to Spatial Data Mining](https://gistbok-topics.ucgis.org/AM-08-097)
   * [[AM-09] Analysis of Errors and Uncertainty](https://gistbok-topics.ucgis.org/AM-09)
+               * [[AM-09-048] Mathematical models of uncertainty: probability and statistics](https://gistbok-topics.ucgis.org/AM-09-048)
+               * [[AM-09-088] Fuzzy Aggregation Operators](https://gistbok-topics.ucgis.org/AM-09-088)
+               * [[AM-09-104] Thematic Accuracy Assessment](https://gistbok-topics.ucgis.org/AM-09-104)
+               * [[AM-09-105] Stochastic Simulation & Monte Carlo Methods](https://gistbok-topics.ucgis.org/AM-09-105)
+               * [[AM-09-106] Error-based Uncertainty](https://gistbok-topics.ucgis.org/AM-09-106)
+               * [[AM-09-107] Spatial Data Uncertainty](https://gistbok-topics.ucgis.org/AM-09-107)
 ## [[CP] Computing Platforms](https://gistbok-topics.ucgis.org/CP)
 ## [[CV] Cartography and Visualization](https://gistbok-topics.ucgis.org/CV)
 ## [[DA] Domain Applications](https://gistbok-topics.ucgis.org/DA)
