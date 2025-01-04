@@ -42,8 +42,30 @@
       *  [[AM-03-058] Hot-spot and Cluster Analysis](https://gistbok-topics.ucgis.org/AM-03-058)
       *  [[AM-03-063] Regression Fundamentals](https://gistbok-topics.ucgis.org/AM-03-063)
   * [[AM-04] Surface and Field Analysis](https://gistbok-topics.ucgis.org/AM-04)
+      * [[AM-04-017] Intervisibility, Line-of-Sight, and Viewsheds](https://gistbok-topics.ucgis.org/AM-04-017)
+      * [[AM-04-029] Kriging Interpolation](https://gistbok-topics.ucgis.org/AM-04-029)
+      * [[AM-04-055] DEM and Terrain Metrics](https://gistbok-topics.ucgis.org/AM-04-055)
+      * [[AM-04-064] Modeling Surfaces](https://gistbok-topics.ucgis.org/AM-04-064)
+      * [[AM-04-066] Watersheds and Drainage Networks](https://gistbok-topics.ucgis.org/AM-04-066)
+      * [[AM-04-067] Gridding, Interpolation, and Contouring](https://gistbok-topics.ucgis.org/AM-04-067)
+      * [[AM-04-070] Inverse Distance Weighting](https://gistbok-topics.ucgis.org/AM-04-070)
+      * [[AM-04-071] Radial Basis and Spline Functions](https://gistbok-topics.ucgis.org/AM-04-071)
+      * [[AM-04-072] TIN-based Models and Terrain Metrics](https://gistbok-topics.ucgis.org/AM-04-072)
+      * [[AM-04-073] Polynomial Functions](https://gistbok-topics.ucgis.org/AM-04-073)
+      * [[AM-04-099] LidAR Point Cloud Analysis](https://gistbok-topics.ucgis.org/AM-04-099)
+      * [[AM-04-101] 3D Parametric Surfaces](https://gistbok-topics.ucgis.org/AM-04-101)
   * [[AM-05] Network and Location Analysis](https://gistbok-topics.ucgis.org/AM-05)
+        * [AM-05-042] The Classic Transportation Problem
+        * [AM-05-043] Location and Service Area Problems
+        * [AM-05-044] Modelling Accessibility
+        * [AM-05-046] Location-allocation modeling
+        * [AM-05-075] Intro to Network & Location Analyses
+        * [AM-05-076] Network Route & Tour Problems
   * [[AM-06] Space-Time Analysis & Modeling](https://gistbok-topics.ucgis.org/AM-06)
+         *  [AM-06-080] Capturing Spatiotemporal Dynamics in Computational Modeling
+         * [AM-06-081] GIS-Based Computational Modeling
+         * [AM-06-090] Computational Movement Analysis
+         * [AM-06-102] Volumes and Space-Time Volumes
   * [[AM-07] Geocomputation Methods and Models](https://gistbok-topics.ucgis.org/AM-07)
   * [[AM-08] Big Data & Geospatial Analytics](https://gistbok-topics.ucgis.org/AM-08)
   * [[AM-09] Analysis of Errors and Uncertainty](https://gistbok-topics.ucgis.org/AM-09)
